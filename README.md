@@ -3,6 +3,8 @@ APA README file
 
 ## Assignment 1
 
+[![Screenshot-from-2019-10-14-16-59-56.png](https://i.postimg.cc/JhcvdYD3/Screenshot-from-2019-10-14-16-59-56.png)](https://postimg.cc/R3hgWRTq)
+
 ## Assignment 2
 
 Times from different inputs:
