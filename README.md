@@ -16,6 +16,9 @@ Times from different inputs:
 - input5.txt: __idk, but i expect that one day__
 
 
+For the input5.txt, what I will do is change the data structure, in somewhat that allows me to work with indexes, and then, insert the 1M elements using a dicotomic search, to locate their position.
+
+
 
 License
 =======
